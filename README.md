@@ -723,6 +723,11 @@ run vim.yml playbook with the following contents:
     shell: "(pkill vim)"
 ```
 
+## The Pragmatists Way
+Credit: @keithn
+
+Buy a new computer.  
+
 ## The Stack Overflow Way
 Credit: @cobaltblu27
 
